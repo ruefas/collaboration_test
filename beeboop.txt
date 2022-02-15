@@ -2,7 +2,6 @@ Das ist ein Test.
 
 
 Dieses File geht über mehrere Zeilen und beinhaltet auch das Gleiche.
-Dieses File geht über mehrere Zeilen und beinhaltet auch das Gleiche.
 
 I have a Russian friend who is an audio engineer
 and a Czech, one, two, and a Czech, one, two :)
